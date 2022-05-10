@@ -30,11 +30,9 @@ def create_app(test_config=None):
     def hello():
         return 'Hello, World!'
 
-#import and call registration func
-def create_app():
-    app = ...
+    #import and call registration func
 
     from . import db
     db.init_app(app)
-    
+
     return app
