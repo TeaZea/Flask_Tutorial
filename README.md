@@ -1,7 +1,8 @@
 # Flask_Tutorial
 Flask tutorial from the official site consisting of:
 
-    - setting up Flask and creting venvs
-    - a simple, one file Flask 'application'
-    - Understanding of Flask classes
+    - Setting up Flask and creting venvs
+    - A simple, one file Flask 'application'
+    - Understanding of Flask classes/application factory
+    - Basic use/understanding of SQLite
     - 
