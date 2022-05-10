@@ -59,3 +59,13 @@ def init_db_command():
     click.echo('Initialized the database.')
 
 
+#write and register the functions with the application instance
+
+#takes application and does the registering
+def init_app(app):
+    
+    #call this func when cleaning up after returning response
+    app.teardown_appcontext(close_db)
+
+    #adds nerw command that can be called with the flask command
+    app.cli.add_command(init_db_command)
