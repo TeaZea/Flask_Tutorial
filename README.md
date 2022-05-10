@@ -5,4 +5,5 @@ Flask tutorial from the official site consisting of:
     - A simple, one file Flask 'application'
     - Understanding of Flask classes/application factory
     - Basic use/understanding of SQLite
+    - Defined and created a connection to a database(SQlite)
     - 
