@@ -7,4 +7,5 @@ Flask tutorial to create a blog from the official site consisting of:
     - Basic use/understanding of SQLite
     - Defined and created a connection to a database(SQlite)
     - Create tables for the database (user table and posts table)
+    - Create Flask blueprint(smaller, reusable applications) and view code(responding to requests)
     - 
