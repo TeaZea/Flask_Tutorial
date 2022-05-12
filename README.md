@@ -10,3 +10,7 @@ Flask tutorial to create a blog from the official site consisting of:
     - Create Flask blueprint(smaller, reusable applications)
     - Created the register form (view function)
     - 
+
+
+    Decided to stop for now and concetnrate on smaller projects.
+    continue from https://flask.palletsprojects.com/en/2.1.x/tutorial/views/
