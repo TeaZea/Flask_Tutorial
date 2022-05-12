@@ -82,3 +82,4 @@ def login():
     return render_template('auth/login.html')
 
 
+https://flask.palletsprojects.com/en/2.1.x/tutorial/views/
